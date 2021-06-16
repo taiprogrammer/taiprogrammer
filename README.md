@@ -37,12 +37,6 @@
 <br />
 <br />
 
-[website]: https://github.com/taiprogrammer
-[course]: https://github.com/taiprogrammer
-[twitter]: https://github.com/taiprogrammer
-[youtube]: https://github.com/taiprogrammer
+
 [instagram]: https://www.instagram.com/trilheiflor/
 [linkedin]: https://www.linkedin.com/in/taiza-marques-2319011a1/
-[jsplaylist]: https://github.com/taiprogrammer
-[cssplaylist]: https://github.com/taiprogrammer
-[reactplaylist]: https://github.com/taiprogrammer
