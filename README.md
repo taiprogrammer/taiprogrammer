@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" alt="Musics that Taiza love so much Spotify Playing" width="350" />](https://open.spotify.com/playlist/2AAnsdlBDLNfXfVYfl11Ya?si=754e4f1aa3944cca)
+[<img height="26px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" alt="Musics that Taiza love so much Spotify Playing" width="350" />](https://open.spotify.com/playlist/2AAnsdlBDLNfXfVYfl11Ya?si=754e4f1aa3944cca)
 
 ### Connect with me:
 
