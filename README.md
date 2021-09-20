@@ -33,7 +33,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AKotlin_Icon.svg&psig=AOvVaw12bdHfqHQo3vnlZ0KDr69t&ust=1632258448054000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjZgdy6jvMCFQAAAAAdAAAAABAD">
+<img align="left" alt="Kotlin" width="26px" src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3AKotlin-logo.png&psig=AOvVaw22JEAXR9XIWXDJJ-VACpqP&ust=1632258547278000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJi7yom7jvMCFQAAAAAdAAAAABAD">
 
 <br />
 <br />
