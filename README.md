@@ -8,6 +8,10 @@
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to draw and listen Eagles/Metallica
 
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taiprogrammer&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=taiprogrammer&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ### Spotify Playing 🎧
 
 [<img height="26px" width="26px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" alt="Musics that Taiza love so much Spotify Playing" width="350" />](https://open.spotify.com/playlist/2AAnsdlBDLNfXfVYfl11Ya?si=754e4f1aa3944cca)
