@@ -2,11 +2,11 @@
 
 
 
-## I'm a Front-End Developer looking for web and mobile projects!!
+## I'm a Front-End Developer
 
-- 🌱 I’m currently learning everything about front-end 🤣
+- 🌱 I’m currently learning about Webpack, Module Federation and MicroFrontend
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to draw and listen Eagles/Metallica
+- ⚡ Fun fact: I love to draw and listen Pink Floyd
 
 ### GitHub Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=taiprogrammer&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
