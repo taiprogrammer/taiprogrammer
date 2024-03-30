@@ -1,50 +1,46 @@
-### Hi there, I'm Taiza 👋
+# Hi there! 👋
 
+I'm Taiza, a passionate software developer focused on Front End roles with a love for creating innovative solutions and learning new technologies. Welcome to my GitHub profile!
 
+## About Me
 
-## I'm a Front-End Developer
+- 💻 Full-stack developer with experience in JavaScript, TypeScript, React, Node.js, and more.
+- 🎓 Analysis and Systems Development graduate from [SPTech].
+- 🌱 Always learning and exploring new technologies to expand my skill set.
+- 📫 You can reach me via email at [taizamarquesousa@gmail.com].
 
-- 🌱 I’m currently learning about Webpack, Module Federation and MicroFrontend
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to draw and listen Pink Floyd
+## Projects
 
-### GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=taiprogrammer&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taiprogrammer&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+Here are some of the projects I've been working on:
 
-### Spotify Playing 🎧
+### [Pet Care]([link-to-project-1](https://github.com/personal-projects-tai/pet-care))
 
-[<img height="26px" width="26px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" alt="Musics that Taiza love so much Spotify Playing" width="350" />](https://open.spotify.com/playlist/2AAnsdlBDLNfXfVYfl11Ya?si=754e4f1aa3944cca)
+I'm rediscovering React development with this project, mainly using TypeScript, SCSS to build it.
 
-### Connect with me:
+### [Good Recipes API]([link-to-project-2](https://github.com/taiprogrammer/good-recipes-api))
 
-[<img align="left" alt="Taiza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Taiza | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+It was my back end project to conclusion of my MBA, this service is using Node Express with JavaScript, Postgre to database and sequelize to manage data inside my project.
 
-<br />
+### [Good Recipes]([link-to-project-3](https://github.com/taiprogrammer/good-recipes-vue))
 
-### Languages and Tools:
+Front End project to conclusion of my MBA, using Vue JS 3 to build SPA UI.
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Tailwind" width="26px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/vue/vue.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
-<br />
-<br />
+Feel free to explore more of my projects on [my GitHub repositories](https://github.com/taiprogrammer).
 
+## Skills
 
-[instagram]: https://www.instagram.com/trilheiflor/
-[linkedin]: https://www.linkedin.com/in/taiza-marques-2319011a1/
+- JavaScript / TypeScript
+- React / Redux / Next.js
+- Node.js / Express.js
+- HTML5 / CSS3 / Sass / Styled Components
+- MongoDB / MySQL / PostgreSQL
+- Git / GitHub
+
+## Get in Touch
+
+- 📧 Email: [taizamarquesousa@gmail.com]
+- 💼 LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/taiza-marques-2319011a1/))
+
+## Thanks for Visiting!
+
+Thank you for taking the time to visit my GitHub profile. Feel free to reach out if you have any questions or just want to say hello!
